@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @Tag("dau")
 class DauServiceTest {
-
     private static final LocalDate TODAY = LocalDate.of(2024, 6, 15);
     private static final LocalDate YESTERDAY = TODAY.minusDays(1);
 
